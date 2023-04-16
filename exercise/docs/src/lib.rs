@@ -1,3 +1,9 @@
+//! A pumpkin is a vernacular term for mature winter squash of species and varieties in the genus
+//! Cucurbita that has culinary and cultural significance[1][2] but no agreed upon botanical or
+//! scientific meaning.[3] The term pumpkin is sometimes used interchangeably with "squash" or
+//! "winter squash", and is commonly used for cultivars of Cucurbita argyrosperma, Cucurbita
+//! ficifolia, Cucurbita maxima, Cucurbita moschata, and Cucurbita pepo.[1]
+
 // 1. Thank you for volunteering to document our pumpkin library! Let's start by grabbing the first
 // paragraph from https://en.wikipedia.org/wiki/Pumpkin and pasting it as our module-level
 // documentation. Hint: Use inner-documentation comments.
