@@ -17,6 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/exercise/testing/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exercise/threads_channels/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/exercise/traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercise/testing/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
